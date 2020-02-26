@@ -179,6 +179,3 @@ def blackjack_oyunu():
                 break
     print("Oynadığınız için teşekkürler...  :)")
 menu()
-
-            #SERGEN KARATAŞ - MERT GÜLBAHÇE
-            #05150000637    - 05150000684
