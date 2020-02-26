@@ -1,1 +1,1 @@
-# Fal-Bakma-ve-Blackjack-Kart-Oyunu
+# Fal Bakma ve Blackjack Kart Oyunu
